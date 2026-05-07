@@ -6,13 +6,19 @@
 |V 1.0 | May 6th 2026 | First draft of VisionDocument. Subject to change.| Gabriel Villeda, Ximena Alvarez|
 | Row 2                          | Value                          | Value                          | Value                          |
 
+---
+
 ## Introduction
 
 This document will describe our goals, scope, and high level requirements of the Vera Project. The purpose of this document is to provide a clear understanding of what the web application aims to achieve and to guide the development crew throughout the project. The application will provide a guide and aid to people aiming for better understanding of their plant providing in-depth information and guides for the optimal way of taking care of each user's specific plants. 
 
+---
+
 ## Business Opprtunity 
 
 Countless people who are first time plant buyers and beginner collectors tend to have a hard time keeping plants alive thanks to extensive research needed for each plant. The existing applications are often not user frinedly, and not very straighfroward, requiring more in depth knowledge on what plants usually need. 
+
+---
 
 ## Problem Statement
 
@@ -22,11 +28,15 @@ First time plant parents need an application where they can:
 - Get a personalized guide for plants
 - Recieve important reminders such as watering etc.
 
+---
+
 ## Vision / Product Position Statement
 
 For first-time plant parents, beginner collectors, and casual plant owners who want a simple way to care for their plants, **VeraProject** is a web application that provides personalized plant care guidance, plant information, and care reminders.
 
 Unlike complicated plant care apps or scattered online research, VeraProject focuses on simplicity, clarity, and practical guidance. The system helps users understand their plants’ needs and stay consistent with care routines, making plant ownership less stressful and more enjoyable.
+
+---
 
 ## Scope
 
