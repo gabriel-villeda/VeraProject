@@ -1,15 +1,7 @@
 # The Vision Document: VeraProject
 ## Revision History 
 
-Version
-- V 1.0
-
-Date
-- May 6th 2026
-
-Description
-- Initial Draft, it is subject to change later on.
-
-Authors
-- Ximena Alvarez
-- Gabriel Villeda
+| Column A | Column B | Column C |
+|----------|----------|----------|
+| Row 1    | Value    | Value    |
+| Row 2    | Value    | Value    |
