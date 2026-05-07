@@ -91,14 +91,12 @@ The following features are not included in the first version of VeraProject:
 
 ## Constraints
 
-- The project must be completed within the expected course deadline.
 - The system will be developed by beginner-level developers.
 - The project must operate within a limited budget.
 - The application should avoid relying on paid external services.
 - The first version of the system will have limited features.
 - The system may not support a large number of users at the beginning.
 - The plant care database may be limited to a smaller number of common plants.
-- Advanced AI features may be too complex for the first version of the project.
 
 ---
 
