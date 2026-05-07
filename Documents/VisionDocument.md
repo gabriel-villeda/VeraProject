@@ -89,28 +89,6 @@ The following features are not included in the first version of VeraProject:
 
 ---
 
-## High-Level Requirements
-
-### Functional Requirements
-
-- Users must be able to register and log in.
-- Users must be able to add, view, edit, and delete plants from their personal collection.
-- Users must be able to view care information for each plant.
-- Users must be able to receive or view reminders for plant care tasks.
-- Users must be able to track whether care tasks have been completed.
-- Admins should be able to manage basic plant information if needed.
-
-### Non-Functional Requirements
-
-- The application should be easy to use for beginner plant owners.
-- The application should load information within a reasonable time.
-- The interface should be clean, organized, and visually simple.
-- The application should work on common web browsers.
-- The database should store user and plant information reliably.
-- The application should be developed using technologies suitable for the team’s current skill level.
-
----
-
 ## Constraints
 
 - The project must be completed within the expected course deadline.
