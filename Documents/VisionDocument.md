@@ -1,1 +1,1 @@
-
+# The Vision Document: VeraProject
