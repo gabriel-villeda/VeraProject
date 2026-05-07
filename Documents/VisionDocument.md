@@ -1,6 +1,6 @@
 # The Vision Document: VeraProject
 ## Revision History 
--
+
 Version
 - V 1.0
 
