@@ -1,2 +1,2 @@
 # VeraProject
-This is a project for a website/app 
+This is a project for a website/app for plant identification
