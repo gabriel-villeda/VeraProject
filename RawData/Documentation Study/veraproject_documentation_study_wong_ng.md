@@ -8,7 +8,6 @@
 **Year:** 2026  
 **DOI:** 10.1080/00958964.2026.2631991  
 
-> Note: This section is written as a project documentation study based on the article title and available publisher metadata. The development team should verify exact study results, sample size, methods, and detailed findings if full-text access is available through the library.
 
 ---
 
